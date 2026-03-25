@@ -14,3 +14,6 @@ Tech Stack
 Run Locally
 npm install
 npm run dev
+
+Lived demo of App
+https://wilfred123816.github.io/Simple-Counter/
